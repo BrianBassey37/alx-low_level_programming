@@ -1,8 +1,3 @@
-/*
- * File: 1-alphabet.c
- * Auth: Brian Bassey for Alx
- */
-
 #include <main.h>
 
 /**
