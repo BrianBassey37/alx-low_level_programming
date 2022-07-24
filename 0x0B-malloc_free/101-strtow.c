@@ -1,8 +1,3 @@
-/*
- * File: 100-strtow.c
- * Auth: Brian Bassey
- */
-
 #include "main.h"
 #include <stdlib.h>
 
