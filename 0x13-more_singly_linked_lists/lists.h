@@ -2,11 +2,11 @@
 #define LISTS_H
 
 /*
- *  * File: lists.h
- *   * Author: Brian Bassey
- *    * Desc: Header file containing prototypes and definitions for all functions
- *     *       and types written in the 0x13-more_singly_linked_lists directory.
- *      */
+ ** File: lists.h
+ ** Author: Brian Bassey
+ ** Desc: Header file containing prototypes and definitions for all functions
+ ** and types written in the 0x13-more_singly_linked_lists directory.
+ **/
 
 #include <stdlib.h>
 
